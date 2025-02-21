@@ -52,5 +52,3 @@ pip install streamlit pandas numpy
 
 <br><b>📧 Contact</b>
 <br>For queries, feel free to reach out. 🚀  
-
-<br>Let me know if you need any modifications! 🔥
