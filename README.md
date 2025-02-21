@@ -13,8 +13,7 @@ This project predicts <b>flood-prone areas in Telangana</b> based on weather con
 
 <b>📦 Required Libraries</b><br>
 Before running the project, install the dependencies:<imp>
-
-pip install streamlit pandas numpy
+    "pip install streamlit pandas numpy"
 </imp>
 
 
@@ -26,7 +25,7 @@ pip install streamlit pandas numpy
 
 <br><b>2️⃣ Start the Streamlit App</b>
 <br>Run the Streamlit web app:
-<br>streamlit run app.py
+<br>" streamlit run app.py "
 
 
 <br><b>3️⃣ Select a District</b>
